@@ -1,0 +1,11 @@
+/home/kaptan/Masaüstü/VS Code/Combination/bin/Debug/netcoreapp2.1/Combination.deps.json
+/home/kaptan/Masaüstü/VS Code/Combination/bin/Debug/netcoreapp2.1/Combination.runtimeconfig.json
+/home/kaptan/Masaüstü/VS Code/Combination/bin/Debug/netcoreapp2.1/Combination.runtimeconfig.dev.json
+/home/kaptan/Masaüstü/VS Code/Combination/bin/Debug/netcoreapp2.1/Combination.dll
+/home/kaptan/Masaüstü/VS Code/Combination/bin/Debug/netcoreapp2.1/Combination.pdb
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.csprojAssemblyReference.cache
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.csproj.CoreCompileInputs.cache
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.AssemblyInfoInputs.cache
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.AssemblyInfo.cs
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.dll
+/home/kaptan/Masaüstü/VS Code/Combination/obj/Debug/netcoreapp2.1/Combination.pdb
